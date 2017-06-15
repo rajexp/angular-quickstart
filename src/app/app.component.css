@@ -1,0 +1,31 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.naviagation{
+    padding:2px 2px 2px 2px;
+}
+.nav-text{
+    padding: 2px 2px 2px 2px;
+    font-size: 18px
+}
+.example-card {
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    position: relative;
+}
+.card-img{
+  width: 100%;
+  height: 300px;
+  overflow:hidden;
+  position: relative;
+}
+.example-header-image {
+  background-image: url('https://i.stack.imgur.com/wPh0S.jpg');
+  background-size: cover;
+  max-width: 100%;
+}
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
